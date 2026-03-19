@@ -17,7 +17,7 @@ The dashboard helps track performance, identify trends, and support decision-mak
 
 ## 📊 Dashboard Preview
 
-https://github.com/nitishkanna2003/sales-performance-dashboard-powerbi/blob/main/power%20bi%20dashboard%20photo.pdf
+https://github.com/nitishkanna2003/sales-performance-dashboard-powerbi/blob/main/Dashboard.png.pdf
 <img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/2e5d99fe-d658-4f77-9f32-16cd1fcc1db5" />
 
 ---
