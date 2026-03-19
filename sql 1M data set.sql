@@ -1,1 +1,0 @@
-SELECT * FROM sales_1m_dataset;
