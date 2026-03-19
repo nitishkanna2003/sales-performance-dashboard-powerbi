@@ -1,29 +1,17 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-## 🔍 Project Overview
+## 🔍 Overview
 
-This project focuses on analyzing sales data using **MySQL and Power BI** to derive meaningful business insights.
-The dashboard provides a comprehensive view of sales performance, helping stakeholders make data-driven decisions.
-
----
-
-## 🛠️ Tools & Technologies
-
-* MySQL (Data Extraction & Querying)
-* Power BI (Dashboard & Visualization)
-* DAX (Measures & KPIs)
-* Excel / CSV (Data Handling)
+This project analyzes sales data using **MySQL and Power BI** to generate actionable business insights.
+The dashboard helps track performance, identify trends, and support decision-making.
 
 ---
 
-## 📂 Dataset
+## 🛠️ Tools Used
 
-The dataset contains transactional sales data including:
-
-* Order details
-* Product information
-* Sales & profit metrics
-* Time-based data (monthly/yearly trends)
+* MySQL (Data Extraction)
+* Power BI (Visualization)
+* DAX (KPIs & Measures)
 
 ---
 
@@ -31,81 +19,45 @@ The dataset contains transactional sales data including:
 
 https://github.com/nitishkanna2003/sales-performance-dashboard-powerbi/blob/main/power%20bi%20dashboard%20photo.pdf
 
+---
+
 ## 📈 Key Insights
 
-* 💰 **Revenue Trends:** Identified consistent growth patterns with seasonal peaks in specific months
-* 🏆 **Top Performing Products:** A small group of products contributes to a large portion of total revenue
-* 🌍 **Regional Performance:** Certain regions dominate sales while others show growth opportunities
-* 👥 **Customer Insights:** Top customers significantly impact overall revenue
-* 📉 **Profit Analysis:** Some high-sales products generate low profit margins
-* 📊 **Sales Distribution:** Sales are unevenly distributed across categories
-
-👉 These insights help in:
-
-* Improving business strategy
-* Optimizing product performance
-* Identifying growth opportunities
+* 💰 **Revenue Growth:** Sales show strong growth trends over time
+* 🏆 **Top Products:** Few products contribute majority of revenue
+* 🌍 **Regional Analysis:** Certain regions dominate sales performance
+* 📉 **Profit Margin:** High sales ≠ high profit (margin varies)
+* 👥 **Customer Impact:** Top customers drive significant revenue
 
 ---
 
-## ⚙️ Process Workflow
+## ⚙️ Workflow
 
-1. **Data Extraction (MySQL)**
-
-   * Queried large dataset using SQL
-   * Performed initial data analysis
-
-2. **Data Transformation (Power BI)**
-
-   * Cleaned and transformed data
-   * Removed duplicates and handled missing values
-
-3. **Data Modeling**
-
-   * Created relationships between tables
-   * Built calculated measures using DAX
-
-4. **Dashboard Development**
-
-   * Designed interactive visuals
-   * Added filters and slicers for dynamic analysis
+1. Extracted data using SQL
+2. Cleaned and transformed data
+3. Built data model in Power BI
+4. Created KPIs and interactive dashboard
 
 ---
 
-## 📌 Features of Dashboard
+## 📁 Files
 
-* Interactive filters (Year, Category, Region)
-* KPI cards (Revenue, Profit, Quantity)
-* Trend analysis (Monthly/Yearly)
-* Top N analysis (Customers & Products)
-* Dynamic visuals for better insights
-
----
-
-## 🚀 Business Impact
-
-* Enables real-time sales tracking
-* Helps identify top-performing areas
-* Supports strategic decision-making
-* Improves overall business efficiency
+* `dashboard.pbix` – Power BI file
+* `sales_data.csv` – Dataset
+* `dashboard.png` – Dashboard preview
+* `database_dump.sql` – SQL dump
 
 ---
 
-## 📁 Project Structure
+## 🚀 Business Value
 
-```
-sales-performance-dashboard-powerbi
-│── README.md
-│── database compress file.zip
-│── power bi dashboard photo.pdf
-```
+* Helps track KPIs
+* Identifies growth opportunities
+* Supports strategic decisions
 
 ---
 
-## 📬 Contact
+⭐ Star this repo if you like it!
 
-If you have any suggestions or feedback.
-
----
 
 
