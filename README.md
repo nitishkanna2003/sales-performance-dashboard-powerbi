@@ -25,9 +25,6 @@ The dataset contains transactional sales data including:
 * Sales & profit metrics
 * Time-based data (monthly/yearly trends)
 
-📥 **Download Dataset:**
-👉 (Add your Google Drive link here)
-
 ---
 
 ## 📊 Dashboard Preview
@@ -99,10 +96,8 @@ https://github.com/nitishkanna2003/sales-performance-dashboard-powerbi/blob/main
 ```
 sales-performance-dashboard-powerbi
 │── README.md
-│── sales_data.csv
-│── dashboard.pbix
-│── dashboard.png
-│── database_dump.sql (optional)
+│── database compress file.zip
+│── power bi dashboard photo.pdf
 ```
 
 ---
