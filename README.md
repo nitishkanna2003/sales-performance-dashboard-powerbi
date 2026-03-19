@@ -32,9 +32,7 @@ The dataset contains transactional sales data including:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
-
----
+https://github.com/nitishkanna2003/sales-performance-dashboard-powerbi/blob/main/power%20bi%20dashboard%20photo.pdf
 
 ## 📈 Key Insights
 
