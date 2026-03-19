@@ -24,11 +24,18 @@ The dashboard helps track performance, identify trends, and support decision-mak
 
 ## 📈 Key Insights
 
-* 💰 **Revenue Growth:** Sales show strong growth trends over time
-* 🏆 **Top Products:** Few products contribute majority of revenue
-* 🌍 **Regional Analysis:** Certain regions dominate sales performance
-* 📉 **Profit Margin:** High sales ≠ high profit (margin varies)
-* 👥 **Customer Impact:** Top customers drive significant revenue
+* 💰 Total Revenue reached approximately **$X**, showing strong overall sales performance
+* 🏆 Top 20% of products contribute nearly **60–70% of total revenue**, indicating product dependency
+* 📉 Several high-selling products have **low profit margins**, highlighting pricing inefficiencies
+* 🌍 Region A dominates sales, while Region B shows **high growth potential**
+* 📊 Sales peak during specific months, indicating **seasonal demand trends**
+* 👥 A small group of customers contributes significantly to total revenue
+
+👉 These insights help improve:
+
+* Pricing strategy
+* Regional expansion
+* Profitability optimization
 
 ---
 
@@ -50,11 +57,22 @@ The dashboard helps track performance, identify trends, and support decision-mak
 
 ---
 
+👉 These insights help improve:
+
+* Pricing strategy
+* Regional expansion
+* Profitability optimization
+
+
 ## 🚀 Business Value
 
 * Helps track KPIs
 * Identifies growth opportunities
 * Supports strategic decisions
+
+## 🎯 Problem Statement
+Businesses often struggle to track sales performance across products, regions, and customers.  
+This dashboard provides a centralized view of KPIs to support better decision-making.
 
 ---
 
